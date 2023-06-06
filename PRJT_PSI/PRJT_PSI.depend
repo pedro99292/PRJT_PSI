@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1685701074 source:c:\users\2222112\onedrive - escola digital\psi\prjt_psi\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.c>
+	"login.h"
+
+1685701811 c:\users\2222112\onedrive - escola digital\psi\prjt_psi\login.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1686045521 source:c:\users\2222112\onedrive - escola digital\prjt psi\prjt_psi\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.c>
+	"login.h"
+	"menuprincipal.h"
+	<locale.h>
+
+1686045904 c:\users\2222112\onedrive - escola digital\prjt psi\prjt_psi\login.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1686048588 c:\users\2222112\onedrive - escola digital\prjt psi\prjt_psi\menuprincipal.h
+
